@@ -19,7 +19,6 @@ Song.prototype.toHTML = function(){
   	htmlString += ' class="current"';
   }
 
-	htmlString += ' class="current"';
 	htmlString += '>';
 	htmlString += this.title;
 	htmlString += ' - ';

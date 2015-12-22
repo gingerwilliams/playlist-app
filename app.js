@@ -18,12 +18,12 @@ playButton.onclick = function(){
 	bbd.renderInElement(playlistElement);
 }
 var nextButton = document.getElementById("next");
-playButton.onclick = function(){
+nextButton.onclick = function(){
 	bbd.next();
 	bbd.renderInElement(playlistElement);
 }
 var stopButton = document.getElementById("stop");
-playButton.onclick = function(){
+stopButton.onclick = function(){
 	bbd.stop();
 	bbd.renderInElement(playlistElement);
 }
