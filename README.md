@@ -28,5 +28,7 @@ Stop to stop current song
 4. stop
 5. renderInElement
 
+Object Oriented Javascript:
+
 https://teamtreehouse.com/library/objectoriented-javascript/constructor-functions-and-prototypes/playlist-project
 
